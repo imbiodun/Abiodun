@@ -5,37 +5,26 @@ A simple web-based calculator built with HTML, CSS, and JavaScript. It performs 
 
 Features
 
-Add, subtract, multiply, and divide numbers
+* Add, subtract, multiply, and divide numbers
+* Interactive buttons for input
+* Clean and responsive user interface
 
-Interactive buttons for input
-
-Clean and responsive user interface
-
-How to Use
-
+How to Use:
 Clone the repository:
-
 git clone <repository-url>
-
-
 Open the project folder.
-
 Open index.html in your web browser.
-
 Use the calculator by clicking the buttons.
 
-Technologies
-
-HTML
-
-CSS
-
-JavaScript
+Technologies:
+* HTML
+* CSS
+* JavaScript
 
 Contributing
 
 Contributions are welcome! You can fork this project to add new features or improve the UI.
 
-License
+License:
 
-MIT License
+* MIT License
